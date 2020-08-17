@@ -10,13 +10,13 @@
 
 <table border="none">
   <tr>
-    <td>
+    <td width="33%" valign="top">
       <em>TasteMakers</em>
       <a href="https://github.com/tastemakers-node-feratu/capstone1">Repo</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="33%" valign="top">
       <img src="https://github.com/tastemakers-node-feratu/capstone1/blob/master/quickdemo.gif" width="100">
     </td>
   </tr>
