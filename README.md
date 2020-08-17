@@ -1,10 +1,15 @@
 
 # Welcome to my Github 👋 #
 
-- [Website](https://malinda.dev/)
-- [LinkedIn](https://www.linkedin.com/in/malinda-lin/)
-- [Medium](https://medium.com/@xqmlin)
+[Website](https://malinda.dev/)
+<br>
+[LinkedIn](https://www.linkedin.com/in/malinda-lin/)
+<br>
+[Medium](https://medium.com/@xqmlin)
+<br>
 
----
-**TasteMakers** [Repo](https://github.com/tastemakers-node-feratu/capstone1)
+**TasteMakers**
+<br>
+[Repo](https://github.com/tastemakers-node-feratu/capstone1)
+<br>
 <img src="https://github.com/tastemakers-node-feratu/capstone1/blob/master/quickdemo.gif" width="100">
