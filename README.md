@@ -8,7 +8,7 @@
 [Medium](https://medium.com/@xqmlin)
 <br>
 
-<table border="none">
+<table bordercolor="#FFFFFF">
   <tr>
     <td>
       <strong halign="left">TasteMakers</strong>
@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center" bgcolor="#FFFFFF">
       <img src="https://github.com/tastemakers-node-feratu/capstone1/blob/master/quickdemo.gif" width="100">
     </td>
   </tr>
