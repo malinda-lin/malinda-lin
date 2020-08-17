@@ -1,5 +1,5 @@
 
-<h1 style="color:pink;">Welcome to my Github 😊 </h1>
+<h1>Welcome to my Github 😊</h1>
 
 [Website](https://malinda.dev/)
 <br>
@@ -8,16 +8,17 @@
 [Medium](https://medium.com/@xqmlin)
 <br>
 
-<table>
+<table bordercolor="pink">
   <tr>
-
-   **TasteMakers**
-  <br>
-  [Repo](https://github.com/tastemakers-node-feratu/capstone1)
-  <br>
+    <td>
+      **TasteMakers**
+      [Repo](https://github.com/tastemakers-node-feratu/capstone1)
+    </td>
   </tr>
   <tr>
-    <img src="https://github.com/tastemakers-node-feratu/capstone1/blob/master/quickdemo.gif" width="100">
+    <td>
+      <img src="https://github.com/tastemakers-node-feratu/capstone1/blob/master/quickdemo.gif" width="100">
+    </td>
   </tr>
 
 </table>
