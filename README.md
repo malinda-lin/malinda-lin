@@ -11,8 +11,8 @@
 <table border="none">
   <tr>
     <td width="33%" valign="top">
-      <em>TasteMakers</em>
-      <a href="https://github.com/tastemakers-node-feratu/capstone1">Repo</a>
+      <strong halign="left">TasteMakers</strong>
+      <a halign="right" href="https://github.com/tastemakers-node-feratu/capstone1">Repo</a>
     </td>
   </tr>
   <tr>
