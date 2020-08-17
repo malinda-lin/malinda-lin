@@ -8,11 +8,13 @@
 [Medium](https://medium.com/@xqmlin)
 <br>
 
-<table bordercolor="pink">
+<table bordercolor="">
   <tr>
     <td>
-      **TasteMakers**
-      [Repo](https://github.com/tastemakers-node-feratu/capstone1)
+      <em>TasteMakers</em>
+    </td>
+    <td>
+      <a href="https://github.com/tastemakers-node-feratu/capstone1">Repo</a>
     </td>
   </tr>
   <tr>
