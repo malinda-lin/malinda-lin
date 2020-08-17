@@ -1,5 +1,5 @@
 
-# Welcome to my Github 😊 #
+<h1 style="color:pink;">Welcome to my Github 😊 </h1>
 
 [Website](https://malinda.dev/)
 <br>
