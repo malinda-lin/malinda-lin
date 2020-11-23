@@ -3,7 +3,7 @@
 
 [Website](https://malinda.dev/) | [LinkedIn](https://www.linkedin.com/in/malinda-lin/) | [Medium](https://medium.com/@xqmlin)
 
-<h2>Projects & Hackatons</h2>
+<h2>My Projects & Hackaton Work</h2>
 
 <a href="https://github.com/2020-opportunity-hack/Team-04"><strong>Opportunity Hack</strong></a>
 <br>
