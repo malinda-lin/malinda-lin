@@ -13,5 +13,5 @@
 <br>
 <a href="https://github.com/A-modern-fruit-shop-2001-tof232c/A-modern-fruit-stand"><strong>A Modern Fruits Stand</strong></a>
 <br>
-<a href="https://github.com/malinda-lin/Hero"><strong>Hero</strong></a>
+<a href="https://github.com/malinda-lin/HeroTwo"><strong>Hero</strong></a>
 
