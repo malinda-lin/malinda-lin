@@ -1,5 +1,5 @@
 
-<h1>Welcome to my Github 😊</h1>
+<h1>Welcome to my Github 😊, Check out these links to see what I've been up to!</h1>
 
 ### [Website](https://malinda.dev/) | [LinkedIn](https://www.linkedin.com/in/malinda-lin/) | [Medium](https://medium.com/@xqmlin)
 
